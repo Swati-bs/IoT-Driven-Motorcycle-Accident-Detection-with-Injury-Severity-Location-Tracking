@@ -44,3 +44,4 @@ A smart IoT system that detects motorcycle accidents in real-time, monitors ride
   - Age, Asthma, Diabetes  
 - ⚙️ **Model:** XGBoost Classifier with hyperparameter tuning (GridSearchCV)  
 - ✅ Achieved **~99% accuracy** on clean test set
+- https://colab.research.google.com/drive/1oJ8RWXNaWO3y7PalyYVX-7anUL0RUEII?usp=sharing
